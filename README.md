@@ -2,7 +2,7 @@
 <img src="images/welcome.png" alt="welcome"/>
 <div align="center">
   <h1><i>Hey there! It's me, Chinmaya!</i></h1>
-  <img src="images/awscert.png" alt="certified" height=200 width=auto><img src="images/handshake.png" alt="hand" height=100 width=auto><img src="images/ml.jpg" alt="hmm" height=200 width=auto>
+  <img src="images/awscert.png" alt="certified" height=200 width=auto><img src="images/ml.jpg" alt="hmm" height=200 width=auto>
   <p>AWS Certified Cloud Practitioner and an ML Enthusiast</p>
 </div>
 <br>
