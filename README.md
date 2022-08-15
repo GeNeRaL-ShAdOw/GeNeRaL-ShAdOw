@@ -1,6 +1,7 @@
 # AboutMe
+<img src="images/welcome.png" alt="welcome"/>
 <div align="center">
-  <h1>Hey there! It's me, Chinmaya!
+  <h1><i>Hey there! It's me, Chinmaya!</i></h1>
 </div>
 <div>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -8,3 +9,4 @@
   </a>
 </div>
 
+<img src="images/end.png" alt="welcome"/>
