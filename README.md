@@ -12,6 +12,8 @@
   <img src="images/loopgif.gif" alt="some trance">
 </div>
 <br>
+<hr size="3" noshade>
+<br>
 <a><h2>Stats</h2></a>
 <div>
     <a href="https://github-readme-stats.vercel.app">
@@ -21,11 +23,19 @@
         <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=GeNeRaL-ShAdOw&theme=synthwave&hide_border=true"/>
     </a>
   </div>
-<br>
+
 <div>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=GeNeRaL-ShAdOw&row=4&theme=onedark&no-frame=true"/>
   </a>
 </div>
-
+<br>
+<hr size="3" noshade>
+<br>
+<div align="center">
+  <h3>Thank you for visiting! Please visit again!</h3>
+<div>
+<br>
+<hr size="3" noshade>
+<br>
 <img src="images/end.png" alt="welcome"/>
