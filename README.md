@@ -50,7 +50,7 @@
 
 <div>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=GeNeRaL-ShAdOw&row=4&theme=onedark&no-frame=true"/>
+    <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=GeNeRaL-ShAdOw&row=4&theme=juicyfresh&no-frame=true"/>
   </a>
   <h3>Skills</h3>
   <img src="https://img.shields.io/badge/-Java-black"/><p>⭐⭐⭐⭐⭐</p>
