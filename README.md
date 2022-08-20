@@ -57,6 +57,7 @@
   <img src="https://img.shields.io/badge/-Java-black"/><p>⭐⭐⭐⭐⭐</p>
   <img src="https://img.shields.io/badge/-C%2B%2B-cyan"/><p>⭐⭐⭐⭐⭐</p>
   <img src="https://img.shields.io/badge/-C-black"/><p>⭐⭐⭐⭐⭐</p>
+  <img src="https://img.shields.io/badge/-Googling-cyan"/><p>⭐⭐⭐⭐⭐</p>
   <img src="https://img.shields.io/badge/-Python-cyan"/><p>⭐⭐⭐⭐</p>
   <img src="https://img.shields.io/badge/-JavaScript-black"/><p>⭐⭐⭐⭐</p>
   <img src="https://img.shields.io/badge/-React-cyan"/><p>⭐⭐⭐⭐</p>
